@@ -1,0 +1,8 @@
+[{
+	"modid": "composecommand",
+	"name": "Compose Command",
+	"description": "Use JSON text to dynamically compose commands.",
+	"version": "1.0",
+	"mcversion": "1.12",
+	"authorList": ["AjaxGb"]
+}]
