@@ -8,4 +8,4 @@ This allows for many things that could not be done previously, in particular thi
 wolf that is tamed to an arbitrary player, or giving a player their own player head. If text components
 for printing UUIDs or NBT were added, this command's capabilities would grow even further.
 
-The compiled .jar can be found on the Releases page, or [here](https://github.com/AjaxGb/ComposeTest/releases/download/v1.0/composecommand-1.0.jar).
+The compiled .jar can be found on the Releases page, or [here](https://github.com/AjaxGb/ComposeTest/releases/download/v1.0/composecommand-1.0.jar). It was compiled with Forge 1.12 - 14.21.1.2387.
